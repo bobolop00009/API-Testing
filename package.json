@@ -1,0 +1,28 @@
+{
+  "name": "api-testing",
+  "version": "1.0.0",
+  "description": "API Testing Sanbercode",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobolop00009/API-Testing.git"
+  },
+  "keywords": [
+    "API",
+    "Testing"
+  ],
+  "author": "Taufan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobolop00009/API-Testing/issues"
+  },
+  "homepage": "https://github.com/bobolop00009/API-Testing#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
